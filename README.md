@@ -56,16 +56,16 @@ const syntaxRules = {
 
 ## Colors
 
-| Element     | Color     | Preview                                                                   |
-| ----------- | --------- | ------------------------------------------------------------------------- |
-| Background  | `#2e2e2e` | <div style="background-color:#2e2e2e; width: 100px; height: 20px;"></div> |
-| Line Number | `#75715e` | <div style="background-color:#75715e; width: 100px; height: 20px;"></div> |
-| Tags        | `#991622` | <div style="background-color:#991622; width: 100px; height: 20px;"></div> |
-| String      | `#a6e22e` | <div style="background-color:#a6e22e; width: 100px; height: 20px;"></div> |
-| Attribute   | `#f92672` | <div style="background-color:#f92672; width: 100px; height: 20px;"></div> |
-| Punctuation | `#6ee4ff` | <div style="background-color:#6ee4ff; width: 100px; height: 20px;"></div> |
-| Comments    | `#75715e` | <div style="background-color:#75715e; width: 100px; height: 20px;"></div> |
-| Caret       | `#f0f`    | <div style="background-color:#f0f; width: 100px; height: 20px;"></div>    |
+| Element     | Color                                                              |
+| ----------- | ------------------------------------------------------------------ |
+| Background  | ![#2e2e2e](https://placehold.co/15x15/2e2e2e/2e2e2e.png) `#2e2e2e` |
+| Line Number | ![#75715e](https://placehold.co/15x15/75715e/75715e.png) `#75715e` |
+| Tags        | ![#991622](https://placehold.co/15x15/991622/991622.png) `#991622` |
+| String      | ![#a6e22e](https://placehold.co/15x15/a6e22e/a6e22e.png) `#a6e22e` |
+| Attribute   | ![#f92672](https://placehold.co/15x15/f92672/f92672.png) `#f92672` |
+| Punctuation | ![#6ee4ff](https://placehold.co/15x15/6ee4ff/6ee4ff.png) `#6ee4ff` |
+| Comments    | ![#75715e](https://placehold.co/15x15/75715e/75715e.png) `#75715e` |
+| Caret       | ![#f0f](https://placehold.co/15x15/f0f/f0f.png) `#f0f`             |
 
 You can change colors in the object `syntaxConfig`:
 
